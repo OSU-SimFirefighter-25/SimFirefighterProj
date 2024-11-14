@@ -4,7 +4,7 @@ Now what you need to do is add you name below and push the file back to the repo
 When that is done, we should all see our names on GitHub.
 ===============================
 
-name 1 --> <Your Name Here>
+name 1 --> Michael Kimber
 name 2 --> <Your Name Here>
 name 3 --> <Your Name Here>
 name 4 --> <Your Name Here>
