@@ -5,6 +5,6 @@ When that is done, we should all see our names on GitHub.
 ===============================
 
 name 1 --> Michael Kimber
-name 2 --> <Your Name Here>
+name 2 --> Logan Knipple
 name 3 --> Jackson Van Dyke
-name 4 --> <Bradley Thomas>
+name 4 --> Bradley Thomas
